@@ -1,4 +1,7 @@
 # NewsGird - News Site Replica
+![Generic badge](https://img.shields.io/badge/HTML-blue.svg)
+![Generic badge](https://img.shields.io/badge/CSS-brightgreen.svg) 
+![Generic badge](https://img.shields.io/badge/SCSS-purple.svg) 
 
 NewsGird is a replica of a news site that I created using HTML and SCSS. The project aims to showcase my web development skills and demonstrate my proficiency in front-end technologies.
 
