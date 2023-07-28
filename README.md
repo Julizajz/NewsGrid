@@ -1,13 +1,13 @@
-# NewsGird - News Site Replica
+# NewsGrid - News Site Replica
 ![Generic badge](https://img.shields.io/badge/HTML-blue.svg)
 ![Generic badge](https://img.shields.io/badge/CSS-brightgreen.svg) 
 ![Generic badge](https://img.shields.io/badge/SCSS-purple.svg) 
 
-NewsGird is a replica of a news site that I created using HTML and SCSS. The project aims to showcase my web development skills and demonstrate my proficiency in front-end technologies.
+NewsGrid is a replica of a news site that I created using HTML and SCSS. The project aims to showcase my web development skills and demonstrate my proficiency in front-end technologies.
 
 ## Project Overview
 
-NewsGird is a responsive and visually appealing replica of a popular news website. It features a grid-based layout with responsive design, allowing users to easily access news articles on various devices.
+NewsGrid is a responsive and visually appealing replica of a popular news website. It features a grid-based layout with responsive design, allowing users to easily access news articles on various devices.
 
 The main objective of this project was to practice my HTML and SCSS skills, including:
 
@@ -17,7 +17,7 @@ The main objective of this project was to practice my HTML and SCSS skills, incl
 
 ## How to View the Project
 
-To view the project, you can access the live demo hosted on Netlify: [NewsGird Live Demo](https://newsgird-julizajz.netlify.app/)
+To view the project, you can access the live demo hosted on Netlify: [NewsGrid Live Demo](https://NewsGrid-julizajz.netlify.app/)
 
 ## Running the Project Locally
 
@@ -26,8 +26,8 @@ If you want to explore the code and run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/NewsGird.git
-cd NewsGird
+git clone https://github.com/YourUsername/NewsGrid.git
+cd NewsGrid
 ```
 
 2. Open the `index.html` file in your web browser to view the site.
