@@ -1,5 +1,3 @@
-Sure, here's a sample README for your news site replica project:
-
 # NewsGird - News Site Replica
 
 NewsGird is a replica of a news site that I created using HTML and SCSS. The project aims to showcase my web development skills and demonstrate my proficiency in front-end technologies.
